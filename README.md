@@ -1,0 +1,1 @@
+Hello, I'm Chao Shi, an Assistant Professor in the Department of Systems Science and Industrial Engineering (SSIE) at Binghamton University with a specialization in Human Factors Engineering. My research interests are visual behavior, autonomous driving, healthcare, Metaverse, situation awareness, cognitive and mathematical modeling. 
